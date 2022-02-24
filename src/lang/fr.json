@@ -126,6 +126,7 @@
     "sta.actor.extendedtask.resistance": "Résistance",
     "sta.actor.extendedtask.breakthroughs": "Apleur",
     "sta.actor.extendedtask.completed": "Tâche Etendue Finie!",
+    "sta.actor.extendedtask.intervals": "Intervalles",
 
     "sta.item.genericitem.name": "Nom",
     "sta.item.genericitem.description": "Description",
